@@ -1,0 +1,2 @@
+python EAsyGeOIP.py
+pause
